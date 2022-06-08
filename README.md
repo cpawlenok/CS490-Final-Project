@@ -2,5 +2,9 @@
 Competition Project
 
 
-# Jupyter Notebook Files
+# 2 Classifiers:
+ Decision Trees, Neural Net classifier
+
+# 2 Regressors:
+ Linear Regression, Neural Net Regressor
 
