@@ -4,3 +4,5 @@ Competition Project
 
 # Jupyter Notebook Files
 
+## Notes:
+
