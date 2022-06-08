@@ -8,7 +8,7 @@ Competition Project
 World Health Organization Food Security Data
 
 # Libraries Used:
-TensorFlow, Pandas, NumPy, SKLearn, MLTools (included in files)
+TensorFlow, Pandas, NumPy, SKLearn, MLTools (included in files), imblearn (oversampling under-represented class)
 
 # Neural Nets:
 TensorFlow Neural Nets, 2 Regressors and 1 Classifier
